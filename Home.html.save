@@ -8,11 +8,11 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width-device-width,initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="sie-edge" />
-    <link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet">
-
-    <link rel="stylesheet" type="text/css" href="style1.css">
+    <link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="styleshee<<<<<<< HEAD
     <link rel="stylesheet" type="text/css" href="style2.css">
-
+=======
+    <link rel="stylesheet" type="text/css" href="style1.css">
+>>>>>>> e1b6b969ffdd30cb6f79d66a16e489ae2c3a0c2d
     
 </head>
 <body>
